@@ -15,6 +15,7 @@
 }
 body{
     background-color: #fff;
+    margin-left: 2rem;
 }
  
 
@@ -425,3 +426,212 @@ body{
     padding-right: 0;
     border-right: none;
 }
+
+.import-card {
+    display: flex;
+    width: 100%;
+    margin: 2rem;
+
+    
+    grid-template-columns: auto 1 1fr;
+    
+}
+
+.import-partners{
+    background: rgba(5, 244, 41, 0.2);
+    box-shadow: 5px 2px 0.3rem;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-transform: uppercase;
+    transition: all 0.5s ease-in-out;
+    margin-left: 2rem;
+
+    
+}
+.import-partners ul {
+    color: black;
+    font-weight: 500;
+    
+}
+.import-partners h5 {
+    padding-top: 0.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.8rem;
+    padding-bottom: 1rem;
+    color: #0E2E50;
+
+}
+
+.import-categories{
+    background: rgba(5, 244, 41, 0.2);
+    box-shadow: 5px 2px 0.3rem;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-transform: uppercase;
+    transition: all 0.5s ease-in-out;
+    margin-left: 2rem;
+}
+
+.import-categories ul {
+    color: black;
+    font-weight: 500;
+    
+}
+.import-categories h5 {
+    padding-top: 0.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.8rem;
+    padding-bottom: 1rem;
+    color: #0E2E50;
+
+}
+.export-card {
+    display: flex;
+    width: 100%;
+    margin: 2rem;
+
+    
+    grid-template-columns: auto 1 1fr;
+    
+}
+
+.export-partners{
+    background: rgba(5, 244, 41, 0.2);
+    box-shadow: 5px 2px 0.3rem;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-transform: uppercase;
+    transition: all 0.5s ease-in-out;
+    margin-left: 2rem;
+
+    
+}
+.export-partners ul {
+    color: black;
+    font-weight: 500;
+    
+}
+.export-partners h5 {
+    padding-top: 0.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.8rem;
+    padding-bottom: 1rem;
+    color: #0E2E50;
+
+}
+
+.export-categories{
+    background: rgba(5, 244, 41, 0.2);
+    box-shadow: 5px 2px 0.3rem;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-transform: uppercase;
+    transition: all 0.5s ease-in-out;
+    margin-left: 2rem;
+}
+
+.export-categories ul {
+    color: black;
+    font-weight: 500;
+    
+}
+.export-categories h5 {
+    padding-top: 0.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.8rem;
+    padding-bottom: 1rem;
+    color: #0E2E50;
+
+}
+
+.ports-card {
+    display: flex;
+    width: 100%;
+    
+}
+
+.ports-card h5 {
+    padding-top: 0.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.8rem;
+    padding-bottom: 1rem;
+    color: #0E2E50;
+}
+
+.ports-card ul {
+    color: black;
+    font-weight: 500;
+}
+
+.media-export{
+    background: rgba(5, 244, 41, 0.2);
+    box-shadow: 5px 2px 0.3rem;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-transform: uppercase;
+    transition: all 0.5s ease-in-out;
+    
+
+    
+}
+.export-partners ul {
+    color: black;
+    font-weight: 500;
+    
+}
+.export-partners h5 {
+    padding-top: 0.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.8rem;
+    padding-bottom: 1rem;
+    color: #0E2E50;
+
+}
+
+.media-import{
+    background: rgba(5, 244, 41, 0.2);
+    box-shadow: 5px 2px 0.3rem;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-transform: uppercase;
+    transition: all 0.5s ease-in-out;
+    margin-left: 1rem;
+}
+   
+.ports-export{
+    background: rgba(5, 244, 41, 0.2);
+    box-shadow: 5px 2px 0.3rem;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-transform: uppercase;
+    transition: all 0.5s ease-in-out;
+    margin-left: 1rem;
+    
+}
+.ports-import{
+    background: rgba(5, 244, 41, 0.2);
+    box-shadow: 5px 2px 0.3rem;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-transform: uppercase;
+    transition: all 0.5s ease-in-out;
+    margin-left: 1rem;
+    
+}
+
+.export-categories ul {
+    color: black;
+    font-weight: 500;
+    
+}
+.export-categories h5 {
+    padding-top: 0.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.8rem;
+    padding-bottom: 1rem;
+    color: #0E2E50;
+
+}
+
+
+
